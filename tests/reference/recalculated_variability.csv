@@ -1,0 +1,106 @@
+model,trait,condition,n_clusters_total,n_clusters_complete,n_clusters_with_unknown,n_clusters_incomplete_or_anomalous,pct_homogeneous,pct_moderate,pct_mixed
+DeepseekV3_2,Machiavellianism,Assessment,200,200,0,0,54.5,30.5,15.0
+DeepseekV3_2,Machiavellianism,FB Job,200,200,0,0,27.5,38.0,34.5
+DeepseekV3_2,Machiavellianism,FB Legal,200,199,1,0,51.256281407035175,30.150753768844222,18.592964824120603
+DeepseekV3_2,Machiavellianism,FG Job,200,199,1,0,57.78894472361809,28.14070351758794,14.07035175879397
+DeepseekV3_2,Machiavellianism,FG Legal,200,200,0,0,58.5,26.0,15.5
+DeepseekV3_2,Narcissism,Assessment,200,200,0,0,83.0,13.0,4.0
+DeepseekV3_2,Narcissism,FB Job,200,200,0,0,67.5,24.5,8.0
+DeepseekV3_2,Narcissism,FB Legal,200,200,0,0,78.5,18.0,3.5
+DeepseekV3_2,Narcissism,FG Job,200,200,0,0,85.5,13.0,1.5
+DeepseekV3_2,Narcissism,FG Legal,200,200,0,0,82.5,15.5,2.0
+DeepseekV3_2,Psychopathy,Assessment,200,200,0,0,95.5,4.5,0.0
+DeepseekV3_2,Psychopathy,FB Job,200,198,2,0,96.96969696969697,3.0303030303030303,0.0
+DeepseekV3_2,Psychopathy,FB Legal,200,195,5,0,83.58974358974359,13.846153846153847,2.5641025641025643
+DeepseekV3_2,Psychopathy,FG Job,200,196,4,0,98.9795918367347,1.0204081632653061,0.0
+DeepseekV3_2,Psychopathy,FG Legal,200,199,1,0,94.47236180904522,4.522613065326633,1.0050251256281406
+GPT4_1,Machiavellianism,Assessment,200,200,0,0,47.5,35.5,17.0
+GPT4_1,Machiavellianism,FB Job,200,197,3,0,27.411167512690355,36.04060913705584,36.54822335025381
+GPT4_1,Machiavellianism,FB Legal,200,197,3,0,54.31472081218274,35.025380710659896,10.65989847715736
+GPT4_1,Machiavellianism,FG Job,200,197,3,0,68.52791878172589,25.888324873096447,5.583756345177665
+GPT4_1,Machiavellianism,FG Legal,200,196,4,0,56.63265306122449,33.16326530612245,10.204081632653061
+GPT4_1,Narcissism,Assessment,200,200,0,0,79.0,16.0,5.0
+GPT4_1,Narcissism,FB Job,200,200,0,0,70.0,25.5,4.5
+GPT4_1,Narcissism,FB Legal,200,200,0,0,85.5,11.5,3.0
+GPT4_1,Narcissism,FG Job,200,200,0,0,94.0,5.5,0.5
+GPT4_1,Narcissism,FG Legal,200,199,1,0,85.42713567839196,12.56281407035176,2.0100502512562812
+GPT4_1,Psychopathy,Assessment,200,186,14,0,96.23655913978494,2.6881720430107525,1.075268817204301
+GPT4_1,Psychopathy,FB Job,200,191,9,0,98.95287958115183,1.0471204188481675,0.0
+GPT4_1,Psychopathy,FB Legal,200,182,18,0,85.16483516483517,10.989010989010989,3.8461538461538463
+GPT4_1,Psychopathy,FG Job,200,186,14,0,100.0,0.0,0.0
+GPT4_1,Psychopathy,FG Legal,200,185,15,0,98.91891891891892,1.0810810810810811,0.0
+Gemma3,Machiavellianism,Assessment,200,200,0,0,43.5,40.0,16.5
+Gemma3,Machiavellianism,FB Job,200,200,0,0,38.0,39.5,22.5
+Gemma3,Machiavellianism,FB Legal,200,200,0,0,41.5,37.0,21.5
+Gemma3,Machiavellianism,FG Job,200,200,0,0,57.5,31.0,11.5
+Gemma3,Machiavellianism,FG Legal,200,200,0,0,44.5,37.0,18.5
+Gemma3,Narcissism,Assessment,200,200,0,0,80.0,17.0,3.0
+Gemma3,Narcissism,FB Job,200,200,0,0,84.5,12.0,3.5
+Gemma3,Narcissism,FB Legal,200,200,0,0,80.5,14.5,5.0
+Gemma3,Narcissism,FG Job,200,200,0,0,87.5,11.0,1.5
+Gemma3,Narcissism,FG Legal,200,200,0,0,82.0,14.0,4.0
+Gemma3,Psychopathy,Assessment,200,199,1,0,81.90954773869346,14.07035175879397,4.0201005025125625
+Gemma3,Psychopathy,FB Job,200,199,1,0,93.46733668341709,5.025125628140704,1.5075376884422111
+Gemma3,Psychopathy,FB Legal,200,199,1,0,38.19095477386934,36.68341708542714,25.12562814070352
+Gemma3,Psychopathy,FG Job,200,199,1,0,97.98994974874371,2.0100502512562812,0.0
+Gemma3,Psychopathy,FG Legal,200,199,1,0,66.33165829145729,24.12060301507538,9.547738693467336
+Grok4_3,Machiavellianism,Assessment,200,200,0,0,47.5,34.0,18.5
+Grok4_3,Machiavellianism,FB Job,200,200,0,0,21.5,33.5,45.0
+Grok4_3,Machiavellianism,FB Legal,200,196,4,0,46.93877551020408,36.734693877551024,16.3265306122449
+Grok4_3,Machiavellianism,FG Job,200,198,2,0,72.22222222222223,21.717171717171716,6.0606060606060606
+Grok4_3,Machiavellianism,FG Legal,200,198,2,0,50.0,38.888888888888886,11.11111111111111
+Grok4_3,Narcissism,Assessment,200,200,0,0,76.0,21.0,3.0
+Grok4_3,Narcissism,FB Job,200,200,0,0,52.5,37.0,10.5
+Grok4_3,Narcissism,FB Legal,200,200,0,0,78.5,18.0,3.5
+Grok4_3,Narcissism,FG Job,200,200,0,0,92.0,7.0,1.0
+Grok4_3,Narcissism,FG Legal,200,200,0,0,82.0,15.0,3.0
+Grok4_3,Psychopathy,Assessment,200,193,7,0,94.81865284974093,4.1450777202072535,1.0362694300518134
+Grok4_3,Psychopathy,FB Job,200,194,6,0,94.3298969072165,5.154639175257732,0.5154639175257731
+Grok4_3,Psychopathy,FB Legal,200,187,13,0,97.86096256684492,2.1390374331550803,0.0
+Grok4_3,Psychopathy,FG Job,200,189,11,0,100.0,0.0,0.0
+Grok4_3,Psychopathy,FG Legal,200,192,8,0,99.47916666666667,0.5208333333333334,0.0
+Llama3_3,Machiavellianism,Assessment,200,200,0,0,58.0,31.0,11.0
+Llama3_3,Machiavellianism,FB Job,200,200,0,0,51.5,32.5,16.0
+Llama3_3,Machiavellianism,FB Legal,200,200,0,0,64.0,27.5,8.5
+Llama3_3,Machiavellianism,FG Job,200,200,0,0,71.0,23.0,6.0
+Llama3_3,Machiavellianism,FG Legal,200,200,0,0,66.0,27.0,7.0
+Llama3_3,Narcissism,Assessment,200,200,0,0,82.5,14.5,3.0
+Llama3_3,Narcissism,FB Job,200,200,0,0,81.5,15.0,3.5
+Llama3_3,Narcissism,FB Legal,200,200,0,0,86.5,11.0,2.5
+Llama3_3,Narcissism,FG Job,200,200,0,0,89.5,10.0,0.5
+Llama3_3,Narcissism,FG Legal,200,200,0,0,88.5,10.0,1.5
+Llama3_3,Psychopathy,Assessment,200,200,0,0,99.0,1.0,0.0
+Llama3_3,Psychopathy,FB Job,200,200,0,0,100.0,0.0,0.0
+Llama3_3,Psychopathy,FB Legal,200,200,0,0,99.5,0.5,0.0
+Llama3_3,Psychopathy,FG Job,200,200,0,0,100.0,0.0,0.0
+Llama3_3,Psychopathy,FG Legal,200,200,0,0,99.5,0.5,0.0
+Mistral_Large3,Machiavellianism,Assessment,200,200,0,0,40.0,36.0,24.0
+Mistral_Large3,Machiavellianism,FB Job,200,200,0,0,23.5,32.0,44.5
+Mistral_Large3,Machiavellianism,FB Legal,200,199,1,0,39.19597989949749,39.19597989949749,21.608040201005025
+Mistral_Large3,Machiavellianism,FG Job,200,198,2,0,55.55555555555556,32.323232323232325,12.121212121212121
+Mistral_Large3,Machiavellianism,FG Legal,200,199,1,0,39.19597989949749,40.20100502512563,20.603015075376884
+Mistral_Large3,Narcissism,Assessment,200,200,0,0,68.5,20.0,11.5
+Mistral_Large3,Narcissism,FB Job,200,200,0,0,60.5,24.0,15.5
+Mistral_Large3,Narcissism,FB Legal,200,200,0,0,69.0,20.5,10.5
+Mistral_Large3,Narcissism,FG Job,200,200,0,0,84.5,10.5,5.0
+Mistral_Large3,Narcissism,FG Legal,200,200,0,0,74.5,16.5,9.0
+Mistral_Large3,Psychopathy,Assessment,200,195,5,0,54.87179487179487,34.87179487179487,10.256410256410257
+Mistral_Large3,Psychopathy,FB Job,200,196,4,0,89.28571428571429,10.204081632653061,0.5102040816326531
+Mistral_Large3,Psychopathy,FB Legal,200,192,8,0,60.9375,26.5625,12.5
+Mistral_Large3,Psychopathy,FG Job,200,196,4,0,96.93877551020408,2.5510204081632653,0.5102040816326531
+Mistral_Large3,Psychopathy,FG Legal,200,199,1,0,87.43718592964824,11.557788944723619,1.0050251256281406
+Qwen2_5,Machiavellianism,Assessment,200,200,0,0,53.5,31.0,15.5
+Qwen2_5,Machiavellianism,FB Job,200,200,0,0,35.5,32.5,32.0
+Qwen2_5,Machiavellianism,FB Legal,200,200,0,0,32.0,34.5,33.5
+Qwen2_5,Machiavellianism,FG Job,200,200,0,0,52.0,36.5,11.5
+Qwen2_5,Machiavellianism,FG Legal,200,200,0,0,53.5,32.5,14.0
+Qwen2_5,Narcissism,Assessment,200,200,0,0,74.5,20.0,5.5
+Qwen2_5,Narcissism,FB Job,200,200,0,0,57.5,31.0,11.5
+Qwen2_5,Narcissism,FB Legal,200,200,0,0,57.5,28.0,14.5
+Qwen2_5,Narcissism,FG Job,200,200,0,0,76.0,20.0,4.0
+Qwen2_5,Narcissism,FG Legal,200,200,0,0,76.5,18.0,5.5
+Qwen2_5,Psychopathy,Assessment,200,200,0,0,99.5,0.5,0.0
+Qwen2_5,Psychopathy,FB Job,200,200,0,0,98.5,1.5,0.0
+Qwen2_5,Psychopathy,FB Legal,200,200,0,0,86.5,11.5,2.0
+Qwen2_5,Psychopathy,FG Job,200,200,0,0,100.0,0.0,0.0
+Qwen2_5,Psychopathy,FG Legal,200,199,1,0,100.0,0.0,0.0

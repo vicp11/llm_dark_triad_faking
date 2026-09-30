@@ -1,0 +1,148 @@
+Model,Trait,Condition,High_n,Low_n,Unknown_n,Filtered_n,Total_n,Valid_n,Valid_pct,Omission_pct
+DeepSeek V3.2,Machiavellianism,SA,129,871,0,0,1000,1000,100.0,0.0
+DeepSeek V3.2,Narcissism,SA,62,938,0,0,1000,1000,100.0,0.0
+DeepSeek V3.2,Psychopathy,SA,9,991,0,0,1000,1000,100.0,0.0
+DeepSeek V3.2,Machiavellianism,FG-Job,117,882,1,0,1000,999,99.9,0.1
+DeepSeek V3.2,Narcissism,FG-Job,51,949,0,0,1000,1000,100.0,0.0
+DeepSeek V3.2,Psychopathy,FG-Job,3,993,4,0,1000,996,99.6,0.4
+DeepSeek V3.2,Machiavellianism,FG-Leg,121,879,0,0,1000,1000,100.0,0.0
+DeepSeek V3.2,Narcissism,FG-Leg,57,943,0,0,1000,1000,100.0,0.0
+DeepSeek V3.2,Psychopathy,FG-Leg,15,984,1,0,1000,999,99.9,0.1
+DeepSeek V3.2,Machiavellianism,FB-Job,253,747,0,0,1000,1000,100.0,0.0
+DeepSeek V3.2,Narcissism,FB-Job,106,894,0,0,1000,1000,100.0,0.0
+DeepSeek V3.2,Psychopathy,FB-Job,6,992,2,0,1000,998,99.8,0.2
+DeepSeek V3.2,Machiavellianism,FB-Leg,147,852,1,0,1000,999,99.9,0.1
+DeepSeek V3.2,Narcissism,FB-Leg,66,934,0,0,1000,1000,100.0,0.0
+DeepSeek V3.2,Psychopathy,FB-Leg,41,954,5,0,1000,995,99.5,0.5
+DeepSeek V3.2,Machiavellianism,Exp-FB-Job,922,78,0,0,1000,1000,100.0,0.0
+DeepSeek V3.2,Narcissism,Exp-FB-Job,867,133,0,0,1000,1000,100.0,0.0
+DeepSeek V3.2,Psychopathy,Exp-FB-Job,781,215,4,0,1000,996,99.6,0.4
+DeepSeek V3.2,Machiavellianism,Exp-FB-Leg,437,563,0,0,1000,1000,100.0,0.0
+DeepSeek V3.2,Narcissism,Exp-FB-Leg,451,549,0,0,1000,1000,100.0,0.0
+DeepSeek V3.2,Psychopathy,Exp-FB-Leg,740,256,4,0,1000,996,99.6,0.4
+GPT-4.1,Machiavellianism,SA,153,847,0,0,1000,1000,100.0,0.0
+GPT-4.1,Narcissism,SA,76,924,0,0,1000,1000,100.0,0.0
+GPT-4.1,Psychopathy,SA,10,976,14,0,1000,986,98.6,1.4
+GPT-4.1,Machiavellianism,FG-Job,76,921,3,0,1000,997,99.7,0.3
+GPT-4.1,Narcissism,FG-Job,29,971,0,0,1000,1000,100.0,0.0
+GPT-4.1,Psychopathy,FG-Job,1,985,14,0,1000,986,98.6,1.4
+GPT-4.1,Machiavellianism,FG-Leg,111,885,4,0,1000,996,99.6,0.4
+GPT-4.1,Narcissism,FG-Leg,51,948,1,0,1000,999,99.9,0.1
+GPT-4.1,Psychopathy,FG-Leg,2,983,15,0,1000,985,98.5,1.5
+GPT-4.1,Machiavellianism,FB-Job,249,748,3,0,1000,997,99.7,0.3
+GPT-4.1,Narcissism,FB-Job,92,908,0,0,1000,1000,100.0,0.0
+GPT-4.1,Psychopathy,FB-Job,2,989,9,0,1000,991,99.1,0.9
+GPT-4.1,Machiavellianism,FB-Leg,122,875,3,0,1000,997,99.7,0.3
+GPT-4.1,Narcissism,FB-Leg,56,944,0,0,1000,1000,100.0,0.0
+GPT-4.1,Psychopathy,FB-Leg,39,942,19,0,1000,981,98.1,1.9
+GPT-4.1,Machiavellianism,Exp-FB-Job,976,21,3,0,1000,997,99.7,0.3
+GPT-4.1,Narcissism,Exp-FB-Job,959,39,2,0,1000,998,99.8,0.2
+GPT-4.1,Psychopathy,Exp-FB-Job,941,31,28,0,1000,972,97.2,2.8
+GPT-4.1,Machiavellianism,Exp-FB-Leg,215,174,611,0,1000,389,38.9,61.1
+GPT-4.1,Narcissism,Exp-FB-Leg,276,167,557,0,1000,443,44.3,55.7
+GPT-4.1,Psychopathy,Exp-FB-Leg,595,31,374,0,1000,626,62.6,37.4
+Gemma 3,Machiavellianism,SA,162,838,0,0,1000,1000,100.0,0.0
+Gemma 3,Narcissism,SA,65,935,0,0,1000,1000,100.0,0.0
+Gemma 3,Psychopathy,SA,45,954,1,0,1000,999,99.9,0.1
+Gemma 3,Machiavellianism,FG-Job,120,880,0,0,1000,1000,100.0,0.0
+Gemma 3,Narcissism,FG-Job,44,956,0,0,1000,1000,100.0,0.0
+Gemma 3,Psychopathy,FG-Job,4,995,1,0,1000,999,99.9,0.1
+Gemma 3,Machiavellianism,FG-Leg,164,836,0,0,1000,1000,100.0,0.0
+Gemma 3,Narcissism,FG-Leg,64,936,0,0,1000,1000,100.0,0.0
+Gemma 3,Psychopathy,FG-Leg,94,905,1,0,1000,999,99.9,0.1
+Gemma 3,Machiavellianism,FB-Job,189,811,0,0,1000,1000,100.0,0.0
+Gemma 3,Narcissism,FB-Job,58,942,0,0,1000,1000,100.0,0.0
+Gemma 3,Psychopathy,FB-Job,16,983,1,0,1000,999,99.9,0.1
+Gemma 3,Machiavellianism,FB-Leg,179,821,0,0,1000,1000,100.0,0.0
+Gemma 3,Narcissism,FB-Leg,71,929,0,0,1000,1000,100.0,0.0
+Gemma 3,Psychopathy,FB-Leg,226,773,1,0,1000,999,99.9,0.1
+Gemma 3,Machiavellianism,Exp-FB-Job,963,37,0,0,1000,1000,100.0,0.0
+Gemma 3,Narcissism,Exp-FB-Job,875,125,0,0,1000,1000,100.0,0.0
+Gemma 3,Psychopathy,Exp-FB-Job,995,5,0,0,1000,1000,100.0,0.0
+Gemma 3,Machiavellianism,Exp-FB-Leg,386,607,7,0,1000,993,99.3,0.7
+Gemma 3,Narcissism,Exp-FB-Leg,242,751,7,0,1000,993,99.3,0.7
+Gemma 3,Psychopathy,Exp-FB-Leg,876,124,0,0,1000,1000,100.0,0.0
+Grok 4.3,Machiavellianism,SA,153,847,0,0,1000,1000,100.0,0.0
+Grok 4.3,Narcissism,SA,82,918,0,0,1000,1000,100.0,0.0
+Grok 4.3,Psychopathy,SA,12,981,7,0,1000,993,99.3,0.7
+Grok 4.3,Machiavellianism,FG-Job,69,929,2,0,1000,998,99.8,0.2
+Grok 4.3,Narcissism,FG-Job,32,968,0,0,1000,1000,100.0,0.0
+Grok 4.3,Psychopathy,FG-Job,0,989,11,0,1000,989,98.9,1.1
+Grok 4.3,Machiavellianism,FG-Leg,126,872,2,0,1000,998,99.8,0.2
+Grok 4.3,Narcissism,FG-Leg,62,938,0,0,1000,1000,100.0,0.0
+Grok 4.3,Psychopathy,FG-Leg,1,991,8,0,1000,992,99.2,0.8
+Grok 4.3,Machiavellianism,FB-Job,301,699,0,0,1000,1000,100.0,0.0
+Grok 4.3,Narcissism,FB-Job,137,863,0,0,1000,1000,100.0,0.0
+Grok 4.3,Psychopathy,FB-Job,12,982,6,0,1000,994,99.4,0.6
+Grok 4.3,Machiavellianism,FB-Leg,142,854,4,0,1000,996,99.6,0.4
+Grok 4.3,Narcissism,FB-Leg,70,930,0,0,1000,1000,100.0,0.0
+Grok 4.3,Psychopathy,FB-Leg,4,982,14,0,1000,986,98.6,1.4
+Grok 4.3,Machiavellianism,Exp-FB-Job,946,52,2,0,1000,998,99.8,0.2
+Grok 4.3,Narcissism,Exp-FB-Job,948,52,0,0,1000,1000,100.0,0.0
+Grok 4.3,Psychopathy,Exp-FB-Job,730,244,26,0,1000,974,97.4,2.6
+Grok 4.3,Machiavellianism,Exp-FB-Leg,317,490,193,0,1000,807,80.7,19.3
+Grok 4.3,Narcissism,Exp-FB-Leg,410,381,209,0,1000,791,79.1,20.9
+Grok 4.3,Psychopathy,Exp-FB-Leg,438,487,75,0,1000,925,92.5,7.5
+Llama 3.3,Machiavellianism,SA,111,889,0,0,1000,1000,100.0,0.0
+Llama 3.3,Narcissism,SA,56,944,0,0,1000,1000,100.0,0.0
+Llama 3.3,Psychopathy,SA,2,998,0,0,1000,1000,100.0,0.0
+Llama 3.3,Machiavellianism,FG-Job,73,927,0,0,1000,1000,100.0,0.0
+Llama 3.3,Narcissism,FG-Job,29,971,0,0,1000,1000,100.0,0.0
+Llama 3.3,Psychopathy,FG-Job,0,1000,0,0,1000,1000,100.0,0.0
+Llama 3.3,Machiavellianism,FG-Leg,86,914,0,0,1000,1000,100.0,0.0
+Llama 3.3,Narcissism,FG-Leg,36,964,0,0,1000,1000,100.0,0.0
+Llama 3.3,Psychopathy,FG-Leg,1,999,0,0,1000,1000,100.0,0.0
+Llama 3.3,Machiavellianism,FB-Job,137,863,0,0,1000,1000,100.0,0.0
+Llama 3.3,Narcissism,FB-Job,52,948,0,0,1000,1000,100.0,0.0
+Llama 3.3,Psychopathy,FB-Job,0,1000,0,0,1000,1000,100.0,0.0
+Llama 3.3,Machiavellianism,FB-Leg,93,907,0,0,1000,1000,100.0,0.0
+Llama 3.3,Narcissism,FB-Leg,42,958,0,0,1000,1000,100.0,0.0
+Llama 3.3,Psychopathy,FB-Leg,1,999,0,0,1000,1000,100.0,0.0
+Llama 3.3,Machiavellianism,Exp-FB-Job,921,71,8,0,1000,992,99.2,0.8
+Llama 3.3,Narcissism,Exp-FB-Job,851,134,15,0,1000,985,98.5,1.5
+Llama 3.3,Psychopathy,Exp-FB-Job,937,63,0,0,1000,1000,100.0,0.0
+Llama 3.3,Machiavellianism,Exp-FB-Leg,283,715,2,0,1000,998,99.8,0.2
+Llama 3.3,Narcissism,Exp-FB-Leg,210,785,5,0,1000,995,99.5,0.5
+Llama 3.3,Psychopathy,Exp-FB-Leg,358,642,0,0,1000,1000,100.0,0.0
+Mistral Large 3,Machiavellianism,SA,185,815,0,0,1000,1000,100.0,0.0
+Mistral Large 3,Narcissism,SA,106,894,0,0,1000,1000,100.0,0.0
+Mistral Large 3,Psychopathy,SA,128,867,5,0,1000,995,99.5,0.5
+Mistral Large 3,Machiavellianism,FG-Job,121,877,2,0,1000,998,99.8,0.2
+Mistral Large 3,Narcissism,FG-Job,59,941,0,0,1000,1000,100.0,0.0
+Mistral Large 3,Psychopathy,FG-Job,7,989,4,0,1000,996,99.6,0.4
+Mistral Large 3,Machiavellianism,FG-Leg,175,824,1,0,1000,999,99.9,0.1
+Mistral Large 3,Narcissism,FG-Leg,90,910,0,0,1000,1000,100.0,0.0
+Mistral Large 3,Psychopathy,FG-Leg,31,968,1,0,1000,999,99.9,0.1
+Mistral Large 3,Machiavellianism,FB-Job,290,710,0,0,1000,1000,100.0,0.0
+Mistral Large 3,Narcissism,FB-Job,134,866,0,0,1000,1000,100.0,0.0
+Mistral Large 3,Psychopathy,FB-Job,22,974,4,0,1000,996,99.6,0.4
+Mistral Large 3,Machiavellianism,FB-Leg,184,815,1,0,1000,999,99.9,0.1
+Mistral Large 3,Narcissism,FB-Leg,105,895,0,0,1000,1000,100.0,0.0
+Mistral Large 3,Psychopathy,FB-Leg,112,880,8,0,1000,992,99.2,0.8
+Mistral Large 3,Machiavellianism,Exp-FB-Job,921,79,0,0,1000,1000,100.0,0.0
+Mistral Large 3,Narcissism,Exp-FB-Job,858,142,0,0,1000,1000,100.0,0.0
+Mistral Large 3,Psychopathy,Exp-FB-Job,872,125,3,0,1000,997,99.7,0.3
+Mistral Large 3,Machiavellianism,Exp-FB-Leg,376,624,0,0,1000,1000,100.0,0.0
+Mistral Large 3,Narcissism,Exp-FB-Leg,210,790,0,0,1000,1000,100.0,0.0
+Mistral Large 3,Psychopathy,Exp-FB-Leg,329,668,3,0,1000,997,99.7,0.3
+Qwen 2.5,Machiavellianism,SA,129,871,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Narcissism,SA,83,917,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Psychopathy,SA,1,999,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Machiavellianism,FG-Job,124,876,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Narcissism,FG-Job,74,926,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Psychopathy,FG-Job,0,1000,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Machiavellianism,FG-Leg,127,873,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Narcissism,FG-Leg,75,925,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Psychopathy,FG-Leg,0,999,1,0,1000,999,99.9,0.1
+Qwen 2.5,Machiavellianism,FB-Job,221,779,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Narcissism,FB-Job,128,872,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Psychopathy,FB-Job,3,997,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Machiavellianism,FB-Leg,224,776,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Narcissism,FB-Leg,131,869,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Psychopathy,FB-Leg,32,968,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Machiavellianism,Exp-FB-Job,774,226,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Narcissism,Exp-FB-Job,656,344,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Psychopathy,Exp-FB-Job,335,650,15,0,1000,985,98.5,1.5
+Qwen 2.5,Machiavellianism,Exp-FB-Leg,157,843,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Narcissism,Exp-FB-Leg,104,896,0,0,1000,1000,100.0,0.0
+Qwen 2.5,Psychopathy,Exp-FB-Leg,63,817,120,0,1000,880,88.0,12.0
